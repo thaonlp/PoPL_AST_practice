@@ -1,0 +1,1 @@
+Prog(List(Assign(a,BinOp(+,Id(a),Intlit(4)))))

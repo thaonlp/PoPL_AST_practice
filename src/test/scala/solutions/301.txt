@@ -1,0 +1,1 @@
+Prog(List(Assign(a,Intlit(1))))
